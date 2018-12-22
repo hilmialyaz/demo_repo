@@ -25,3 +25,6 @@ force push oncesi
 
 biseyler yapildi checkout oncesi
 biraz daha degisiklik yaptım. bakalım simdi ne diyeceksin .
+
+
+tag v0
