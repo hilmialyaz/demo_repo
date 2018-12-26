@@ -9,3 +9,7 @@ mow lawn
 weed garden
 take out trash
 practice piano
+
+
+preprod alimi yapilacak.
+yoksa preproddan vazmi gecildi
